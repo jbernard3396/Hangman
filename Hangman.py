@@ -1,3 +1,5 @@
+#Created by Jacob Bernard on 4-14-18
+
 remainingLetterList = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z"]
 
 def Hangman():
